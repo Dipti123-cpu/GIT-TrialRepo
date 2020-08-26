@@ -1,0 +1,2 @@
+# GIT-TrialRepo
+Git repository
