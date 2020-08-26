@@ -1,2 +1,2 @@
 # GIT-TrialRepo
-Git repository
+Git repository for practise.
